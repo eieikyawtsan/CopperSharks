@@ -13,6 +13,7 @@
   font-size: 17px;
   padding: 7px 20px 7px 20px;
   text-decoration: none;
+  width:93%;
 }
 
 .btn:hover {
@@ -23,6 +24,7 @@
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+  width:93%;
 }
 
 h1{
@@ -43,4 +45,20 @@ h1{
 
 body{
   background-color: #333;
+}
+
+.col-lg-6 {
+    width: 93%;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height:65px;
+    width: 65px;
+    margin-left: 22px;
+}
+
+.dog-picture {
+    float:left;
+    width:25%;
 }
